@@ -1,0 +1,148 @@
+.welcome-pg{
+    text-align: center;
+    margin-top: 5%;
+    background-color: #2BBBAD;
+}
+.welcome-page{
+    background-color: #f5f5f5;
+}
+
+.navbar-default{
+    background-color: #2BBBAD;
+    font-style: bold;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 80px;
+    color:#fff;
+}
+
+.navbar-default li a, .navbar-brand {
+    color: #fff !important;
+}
+
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #2BBBAD;
+    color:#fff;
+}
+  
+.logged-in{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.class-container{
+    margin-top:10%;
+}
+  
+.btn-new-user, .btn-new-category, .btn-new-service{
+    background-color: #2BBBAD;
+    border: 1px solid #2BBBAD;
+}
+  
+.btn-new-user:hover, .btn-new-category:hover, .btn-new-service:hover{
+    background-color: #2BBBAD;
+    border: 1px solid #2BBBAD;
+}
+  
+.edit-btn, .show-btn{
+    background-color: #23527c;
+    color:#fff;
+}
+
+.edit-btn:hover, .show-btn:hover{
+    background-color: #23527c;
+    color:#fff;
+}
+
+.edit-form{
+    text-align: center;   
+}
+
+.login-btn{
+    margin-right: 30%;
+    width: 40%;
+}
+   
+    
+.flash-message-class{
+    z-index:9999 !important;
+    padding-top: 5% !important;
+    margin-bottom:0 !important;
+}
+
+.edit-title, .create-title, .permissions-title{
+    text-align: center;
+}
+
+.edit-role, .create-role{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.hr-form{
+   border: 1px solid #2BBBAD;
+}
+
+.holder{
+    border-radius: 0.5em;
+    background: #EEE;
+    padding: 20px 20px;
+    margin-bottom: 30px;
+}
+
+.row-margin{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+textarea{
+    margin-bottom: 15px;
+    max-height: 60px;
+}
+
+.permission-mark{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: italic;
+}
+.form-group{
+    padding: 15px 10px !important;
+}
+
+.consult_write{
+    display:none;
+}
+
+.examination_write{
+    display: none;
+}
+
+.consults_list{
+    overflow-y: scroll;
+    height:60vh;
+}
+
+.examinations_list{
+    overflow-y: scroll;
+    height:60vh;
+}
+
+.folder_info_list{
+    overflow-y: scroll;
+    height:60vh;
+}
+
+.waves-button-input{
+    padding: 0 1.1em;
+}
+
+.form-control{
+    padding: 0 .6rem;
+}
+
+.validation-errors{
+    margin-top: 5%;
+}
